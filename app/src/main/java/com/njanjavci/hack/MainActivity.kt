@@ -30,6 +30,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultView() {
     HackTheme {
-        Greeting("Njanjavci")
+        Greeting("osam")
     }
 }
